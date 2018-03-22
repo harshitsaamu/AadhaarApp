@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "230773691092",
+    "firebase_url": "https://aarti-b460c.firebaseio.com",
+    "project_id": "aarti-b460c",
+    "storage_bucket": "aarti-b460c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230773691092:android:f612d80478a23f29",
+        "android_client_info": {
+          "package_name": "com.myapp.aarti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230773691092-mlrqre8nu2uuvsvilq3altbukmua66m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnThTKpT3Y969UFZKiy5ZRgrf6ORJWjTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230773691092:android:64822e44d480a7eb",
+        "android_client_info": {
+          "package_name": "bluehearthealthcare.com.aadhaarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230773691092-cnoq77vbbvp3pv2ier5hjuadi7mo6s7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bluehearthealthcare.com.aadhaarapp",
+            "certificate_hash": "25e8bf22a1c66284fdbb58ff3040f19419884114"
+          }
+        },
+        {
+          "client_id": "230773691092-mlrqre8nu2uuvsvilq3altbukmua66m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnThTKpT3Y969UFZKiy5ZRgrf6ORJWjTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230773691092-mlrqre8nu2uuvsvilq3altbukmua66m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
